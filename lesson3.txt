@@ -1,0 +1,6 @@
+https://githowto.com/uk
+rm -rf "fork-me" (видалено)
+git commit -a -m "Щось там" (-a виконує add відразу
+
+налаштування токену
+git remote add origin https://"токен"@"посилання на репозиторій"
