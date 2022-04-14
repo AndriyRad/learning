@@ -1,0 +1,10 @@
+html - гіпертекстова розмітка.
+https://www.w3.org/blog/2019/05/w3c-and-whatwg-to-work-together-to-advance-the-open-web-platform/#:~:text=WHATWG%20produces%20periodic%20snapshots%2C%20called,%E2%86%92%20Proposed%20Recommendation%20%E2%86%92%20Recommendation
+https://www.w3schools.com/
+https://developer.mozilla.org/ru/docs/Web
+завантажити Live Server в VS code
+
+Дз - форкаємо репозиторій, пишемо в індекс, і робимо пул реквест з головного репо (елекст буткемп)
+<!DOCTYPE html>
+<html>
+</html>
